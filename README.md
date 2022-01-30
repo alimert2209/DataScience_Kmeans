@@ -1,1 +1,1 @@
-# DataScience K-Means application on Iris Dataset
+# Data Science K-Means application on Iris Dataset
